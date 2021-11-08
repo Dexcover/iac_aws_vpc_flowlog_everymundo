@@ -14,6 +14,6 @@ remote_state {
 }
 
 inputs = {
-    vpc_ids                                = ["vpc-eab92982"]
+    vpc_ids                                = ["vpc-a2285bca"]
     region                                 = "ap-south-1"
 }

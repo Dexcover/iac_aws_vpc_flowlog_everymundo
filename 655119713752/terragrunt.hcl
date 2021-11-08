@@ -1,5 +1,5 @@
      terraform {
-         source = "../../../iac_aws_vpc_flow_everymundo//./"
+         source = "../../../iac_aws_vpc_flowlog_everymundo//./"
      }
 
      inputs = {
